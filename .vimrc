@@ -1,5 +1,5 @@
 "http://dougblack.io/words/a-good-vimrc.html#colors
-
+"useful tips from youtube vim boston
 syntax on
 syntax enable 
 set tabstop=4       " number of visual spaces per TAB
